@@ -1531,3 +1531,4 @@ void GUI::renderGuiStyle2() noexcept
 
     ImGui::End();
 }
+
